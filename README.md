@@ -11,8 +11,8 @@ xxxxxxxxxxxxxxxxxxxxx.com (not avaiable yet)
 Download dataset from 'https://drive.google.com/open?id=1ppSJMunUMNI1RO8ZvgIwBNH9bh1NEK03' into 'Npy_file' consisting of:
    - Train_images.npy:  The input images for training
    - Train_labels.npy:  The density maps for training
-   - Val_images.npy:    The input images for validation 
-   - Val_labels.npy:    The density maps for validation
+   - Test_images.npy:    The input images for testing 
+   - Test_labels.npy:    The density maps for testing
    
    *The traffic images have already converted into .npy files.*
    *The original images can be found in TRANCOS dataset (http://agamenon.tsc.uah.es/Personales/rlopez/data/trancos/)*
