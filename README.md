@@ -1,7 +1,10 @@
 # The Density-Aware Estimation Network (DAEN)
 
-This is an official implementation of SITIS 2019 paper "The Density-Aware Estimation Network for Vehicle Counting in Traffic Surveillance System" which can be read in the following link:
-xxxxxxxxxxxxxxxxxxxxx.com (not available yet)
+This is an official implementation of SITIS 2019 paper "The Density-Aware Estimation Network for Vehicle Counting in Traffic Surveillance System" which can be read in our published paper as follows:
+" S. Sooksatra, A. Yoshitaka, T. Kondo, and P. Bunnun, The Density-Aware Estimation
+Network for Vehicle Counting in Traffic Surveillance System, The 15 th International
+Conference on Signal Image Technology & Internet Based Systems, pp. 231-238, 26-29
+November 2019, Sorrento, Italy. "
 
 # Installation
 1. Install tensorflow (and keras)
